@@ -1,0 +1,47 @@
+* {
+    font-family: Helvetica;
+}
+.b1{
+    background-color: #00838F;
+    color: white; 
+    padding: 5px; 
+    font-size: 130%;
+    
+}
+
+.l1{ 
+    background-color: #EFEFEF;
+    width: 55%;
+    height: 150px;
+    float: left;
+} 
+.l2{ 
+    background-color: #EFEFEF;
+    width: 55%;
+    height: 300px;
+    float: left;
+}
+.p1{
+    background-color: #4FB3BF;
+    height: 450px;
+    text-align: center;
+    padding: 18.5px;
+    
+    
+    
+}
+.o1 img{
+  box-shadow: 10px 10px 7px dimgray;
+  width: 400px;
+  margin: 20px;
+}
+
+.s1{ 
+    background-color: #00838F;
+    color: white;
+    padding: 5px;
+    font-size: 130%;
+    text-align: center;
+    clear: both;
+   
+}
